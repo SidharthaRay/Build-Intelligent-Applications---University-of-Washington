@@ -1,2 +1,2 @@
-# Build-Intelligent-Applications---University-of-Washington
+# Build Intelligent Applications - Coursera Inc
 Machine Learning Specialization from University of Washington
